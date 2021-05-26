@@ -1,7 +1,5 @@
 # nodejs-on-docker
 
-Steps: 
-
 1. Clone the repo 
 2. Open terminal on the folder 
 3. Run "docker build --tag[imagename] ."
