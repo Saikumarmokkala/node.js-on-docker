@@ -1,5 +1,6 @@
-# nodejs-on-docker-
+# nodejs-on-docker
 
+Steps: 
 
 1.Clone the repo
 2. Open terminal on the folder 
